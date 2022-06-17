@@ -1,8 +1,8 @@
-﻿{ 
+{ 
 
-//"spider":"https://raw.githubusercontent.com/soberren/rxb/main/Jar/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
+//"spider":"https://raw.fastgit.org/soberren/rxb/main/Jar/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
 
-"spider":"https://raw.githubusercontent.com/soberren/rxb/main/Jar/0608.jar",
+"spider":"https://raw.fastgit.org/soberren/rxb/main/Jar/0608.jar",
 
 "lives": [{ "group": "redirect", "channels": 
 [{"name": "live","urls": [
@@ -89,7 +89,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXP/奇优.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/奇优.json"
     },
     {
       "key": "csp_XPath_哔嘀",
@@ -99,7 +99,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXP/哔嘀.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/哔嘀.json"
     },
     {
       "key": "csp_XBiubiubiubiu_蓝光影视",
@@ -109,7 +109,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXB/蓝光影院.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXB/蓝光影院.json"
     },
     {
       "key": "csp_xpath_lezhutv",
@@ -119,7 +119,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXB/乐猪影视.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXB/乐猪影视.json"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -129,7 +129,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXB/特狗影视.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXB/特狗影视.json"
     },
     {
       "key": "csp_biubiu_花猫TV",
@@ -139,7 +139,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXB/花猫TV.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXB/花猫TV.json"
     },
     {
       "key": "csp_biubiu_鸭奈飞",
@@ -149,7 +149,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXB/鸭奈飞.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXB/鸭奈飞.json"
     },
     {
       "key": "csp_biubiu_达达龟",
@@ -159,7 +159,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXB/达达龟.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXB/达达龟.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -169,7 +169,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXP/jubaibai.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/jubaibai.json"
     },
     {
       "key": "csp_XBiubiubiubiu_ysgc",
@@ -179,7 +179,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXB/影视工厂.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXB/影视工厂.json"
     },
     {
       "key": "csp_xpath_网络",
@@ -246,7 +246,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXB/555.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXB/555.json"
     },
     {
       "key": "csp_appysv2_9e国语",
@@ -256,7 +256,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXP/9eguoyu.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/9eguoyu.json"
     },
     {
       "key": "csp_Auete",
@@ -275,7 +275,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXP/libv.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/libv.json"
     },
     {
       "key": "csp_xpath_A33",
@@ -285,7 +285,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXP/MTV.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/MTV.json"
     },
     {
       "key": "csp_xpath_qiumi",
@@ -295,7 +295,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXP/球迷.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/球迷.json"
     },
     {
       "key": "csp_xpath",
@@ -305,7 +305,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/soberren/rxb/main/MeowXP/huya.json"
+      "ext": "https://raw.fastgit.org/soberren/rxb/main/MeowXP/huya.json"
     },
     {
       "key": "csp_GitCafe",
